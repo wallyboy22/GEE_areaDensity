@@ -1,2 +1,2 @@
 # GEE_areaDensity
-É proposto um aplicativo no Google Earth Engine para consulta visual dos resultados produzidos com os resultados betas de uma classificação de fogo. Este repository ira armazenar informações e metadados deste projeto 
+É proposto um aplicativo no Google Earth Engine para interpretação e comparação da area de dados ee.Image(), analisando o tamanho em km², convergencia, omissão e comissão de dois rasters com Classificações anuais de area queimada (Modis - BurnedArea, Landsat - Mapbiomas Fogo) para cada bioma no Brasil. Esses processamentos irão ilustrão a visualização de densidade de area por um mapa das cenas landsat em degrade. É proposto um painel que automatiza consulta dessas visualizações escolhendo somente o ano e o bioma que quer ver os resultados
